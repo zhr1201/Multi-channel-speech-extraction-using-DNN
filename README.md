@@ -54,6 +54,6 @@ https://github.com/zhr1201/Multi-channel-speech-extraction-using-DNN/blob/master
        a trained model.
 
 ## Some other things
-  There are some little difference betweem the implementation and the paper, eg. the VAD inference loss is not considered and etc.
+  There are some little differences betweem the implementation and the paper, eg. the VAD inference loss is not considered and etc.
 
    
