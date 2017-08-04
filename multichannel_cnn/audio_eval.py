@@ -1,6 +1,6 @@
 '''
-Script for read in a forward beamformer audio and
-output a backward beamformer audio
+Script for reading in a forward beamformer audio and
+a backward beamformer audio and output an enhanced audio
 '''
 import tensorflow as tf
 import numpy as np
